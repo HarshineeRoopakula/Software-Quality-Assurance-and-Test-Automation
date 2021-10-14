@@ -21,3 +21,7 @@ The Juke Box can search other Juke Boxes from Internet for songs that are not co
  - [Use Case Diagram](https://github.com/HarshineeRoopakula/Software-Quality-Assurance-and-Test-Automation/blob/main/Software%20Development%20Life%20Cycle%20(SDLC)/UML/JukeBox/Usecase%20diagram.jpeg)
  - [Class Diagram](https://github.com/HarshineeRoopakula/Software-Quality-Assurance-and-Test-Automation/blob/main/Software%20Development%20Life%20Cycle%20(SDLC)/UML/JukeBox/Class%20diagram.jpeg)
  - [Sequence Diagram](https://github.com/HarshineeRoopakula/Software-Quality-Assurance-and-Test-Automation/blob/main/Software%20Development%20Life%20Cycle%20(SDLC)/UML/JukeBox/Sequence%20diagram.jpeg)
+
+## Slides 
+https://docs.google.com/presentation/d/1DQqgVtvN_GZi0lfzQq8GPk_a0C0CKjETCjrJZ4ji7MI/edit?usp=sharing
+
