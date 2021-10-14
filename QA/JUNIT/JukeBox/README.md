@@ -19,3 +19,7 @@ The unit tests are designed as the following simple diagram
  
 
 All the tests file can be found under [Tests](https://github.com/HarshineeRoopakula/Software-Quality-Assurance-and-Test-Automation/tree/main/QA/JUNIT/JukeBox/Tests) folder
+
+## Slides
+
+https://docs.google.com/presentation/d/1HRi6wW087mgymBmxq5HniWGfDTVkjt7eHuxkcRHTreM/edit?usp=sharing
