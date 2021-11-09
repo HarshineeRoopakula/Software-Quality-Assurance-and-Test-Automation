@@ -10,3 +10,6 @@ Step 3: Set up a cron job to automate the process at 1 am every day.
 Step 4: Configure the cron job to support email notice
 
 Step 5: Remove the cron job after the project
+
+## Slides 
+You can find link to the google slides [here](https://docs.google.com/presentation/d/1tlTnCr1U57l39P9MFyRUxngUjHwAamPilWiIjJZG7p8/edit?usp=sharing)
